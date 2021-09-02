@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
 
-#### :e-mail: Связь со мной <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> @Mxnsxxn
+#### :e-mail: Связь со мной:
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> @Mxnsxxn
 
 <!--
 **Mxnsoon/Mxnsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
