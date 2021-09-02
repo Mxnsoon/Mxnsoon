@@ -1,7 +1,7 @@
-### Всем привет, меня зовут Сергей! 👋
+## Всем привет, меня зовут Сергей! 👋
 
-# :mortar_board: Начинающий фротенд разработчик
-# :crystal_ball: Стек технологий: <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+#### :mortar_board: Начинающий фротенд разработчик
+#### :crystal_ball: Стек технологий: <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 <!--
 **Mxnsoon/Mxnsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
