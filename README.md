@@ -16,7 +16,7 @@
 
 Email: S1ep.sergey@yandex.ru
 
-+7 903 030 82 04
+Телефон: +7 903 030 82 04
 
 <!--
 **Mxnsoon/Mxnsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
